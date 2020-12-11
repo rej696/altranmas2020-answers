@@ -13,7 +13,9 @@ Make sure you are using python 3. If you don't have python 3, contact me and I c
 
 Make sure to use the same name \(case sensitve\) that you used when generating your input!
 
-Congratulations on completeing the challenge! I have included my solution in this repository for reference (and to generate the answers)
+The answer for each input can be found in the generated ```answers.csv``` file.
+
+Congratulations on completeing the challenge! I have included my solution in this repository for reference (and to generate the answers).
 
 Merry Christmas! May Santa and Neil visit your home multiple times over the holiday! 🎅
 
