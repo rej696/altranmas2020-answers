@@ -19,8 +19,6 @@ For example:
 - ^>v< delivers presents to 4 houses in a square, including twice to the house at
     his starting/ending location.
 - ^v^v^v^v^v delivers a bunch of presents to some very lucky children at only 2 houses.
-
-Answer: 2565
 """
 import sys
 import getopt
