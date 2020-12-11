@@ -20,8 +20,6 @@ For example:
     going one direction and Neil going the other.
 
 Use the same input as before.
-
-Answer: 2639
 """
 import sys
 import getopt
