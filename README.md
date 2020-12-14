@@ -22,3 +22,5 @@ Congratulations on completeing the challenge! I have included my solution in thi
 Merry Christmas! May Santa and Neil visit your home multiple times over the holiday! 🎅
 
 🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄
+
+If you enjoyed this challenge, you can find many more like it at https://adventofcode.com/.
